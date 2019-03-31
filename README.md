@@ -8,4 +8,3 @@ The FTW Pusher was obtained from [FlywheelTheWorld's Thingiverse](https://www.th
 
 # Contributing
 The project was designed using Fusion 360, under their hobbyist license. Upon updating or creating a new design, export and upload the requisite STEP files. Keep individual components in separate STEP files. This makes it easy to insert components into designs and allows each part to have a separate file history. 
-
